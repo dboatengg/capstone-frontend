@@ -1,7 +1,6 @@
 # Capstone Real Estate Platform — Client
 
-The frontend for the Capstone Real Estate Platform, a role-based property
-listing and management app built with Next.js.
+This is the frontend for the Capstone Real Estate Platform.
 
 ## Features
 
@@ -18,7 +17,7 @@ listing and management app built with Next.js.
 
 ## Tech Stack
 
-- [Next.js](https://nextjs.org/)
+- Next.js
 - TypeScript
 - Connects to the Express/PostgreSQL API
 
